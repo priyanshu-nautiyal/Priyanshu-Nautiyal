@@ -9,6 +9,7 @@
 
 ### 🚀 About Me
 
+- 💻 Portfolio-site https://priyanshu-nautiyal.github.io/portfolio-website/
 - 🎓 Completed **B.Tech in Computer Science** at Graphic Era Hill University (2022–2026)
 - 💻 Passionate about **Full-Stack Web Development** and **Machine Learning**
 - 🌱 Currently exploring **React.js** and **Advanced Django**
