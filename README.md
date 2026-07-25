@@ -1,6 +1,5 @@
-## Hi there 👋
-# priyanshu.github.io
-<h1 align="center">Hi there, I'm Priyanshu Nautiyal 👋</h1>
+<h1>## Hi there 👋</h1>
+<h1 align="center">I'm Priyanshu Nautiyal</h1>
 
 <p align="center">
   🎓 Computer Science Graduate | 💻 Full-Stack Developer | 🤖 ML Enthusiast
