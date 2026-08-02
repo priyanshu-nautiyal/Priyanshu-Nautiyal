@@ -65,6 +65,7 @@
 ### 🌟 Featured Projects
 
 - 🏥 **[Smart Health Prediction System](link)** — ML-powered disease predictor with Django
+- 💬 **[PulseChat-Chat App](link)** — Real-Time chat web app with video/audio call support 
 - 💱 **[Currency Converter](link)** — Real-time exchange rate app with 100+ currencies
 - 🎮 **[Tic-Tac-Toe Game](link)** — Interactive 2-player web game
 
