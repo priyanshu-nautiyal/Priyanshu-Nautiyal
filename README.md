@@ -64,10 +64,11 @@
 
 ### 🌟 Featured Projects
 
-- 🏥 **[Smart Health Prediction System](link)** — ML-powered disease predictor with Django
-- 💬 **[PulseChat-Chat App](link)** — Real-Time chat web app with video/audio call support 
-- 💱 **[Currency Converter](link)** — Real-time exchange rate app with 100+ currencies
-- 🎮 **[Tic-Tac-Toe Game](link)** — Interactive 2-player web game
+- 🏥 **[Smart Health Prediction System](https://health-prediction-system-wuk4.onrender.com/)** — ML-powered disease predictor with Django
+- 💬 **[PulseChat-Chat App](https://pulse-chat-h5nt.onrender.com)** — Real-Time chat web app with video/audio call support
+- 🌎 **[Endless Explorer-Travel Booking Website](https://endless-explorer.onrender.com)** — A full-stack travel booking website with leads capture feature  
+- 🎮 **[Tic-Tac-Toe Game](https://priyanshun-tictactoe.netlify.app/)** — Interactive 2-player web game
+- ....and more
 
 ---
 
